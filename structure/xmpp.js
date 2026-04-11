@@ -5,7 +5,7 @@ const XMLParser = require("xml-parser");
 const functions = require("./../structure/functions.js");
 const matchmaker = require("./matchmaker.js");
 
-const port = 80;
+const port = 5000;
 
 const wss = new WebSocket({ port: port }, () => console.log("XMPP and Matchmaker started listening on port", port));
 wss.on("error", (err) => {
