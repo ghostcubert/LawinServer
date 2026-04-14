@@ -153,6 +153,47 @@ express.get("/account/api/oauth/verify", async (req, res) => {
 })
 
 express.post("/account/api/oauth/token", async (req, res) => {
+    //MOBILE LOGIN
+    if (req.body.grant_type === "authorization_code") {
+        if (!req.body.code) {
+            return res.status(400).json({
+                "errorCode": "errors.com.epicgames.common.oauth.invalid_request",
+                "errorMessage": "Authorization code is required.",
+                "numericErrorCode": 1013
+            });
+        }
+
+        const parts = req.body.code.split(":");
+        if (parts.length < 2) {
+            return res.status(400).json({
+                "errorCode": "errors.com.epicgames.common.oauth.invalid_request",
+                "errorMessage": "Invalid authorization code format.",
+                "numericErrorCode": 1013
+            });
+        }
+
+        const authUsername = decodeURIComponent(parts[0]);
+        Memory_CurrentAccountID = authUsername.includes("@") ? authUsername.split("@")[0] : authUsername;
+
+        return res.json({
+            "access_token": "lawinstokenlol",
+            "expires_in": 28800,
+            "expires_at": "9999-12-02T01:12:01.100Z",
+            "token_type": "bearer",
+            "refresh_token": "lawinstokenlol",
+            "refresh_expires": 86400,
+            "refresh_expires_at": "9999-12-02T01:12:01.100Z",
+            "account_id": Memory_CurrentAccountID,
+            "client_id": "lawinsclientidlol",
+            "internal_client": true,
+            "client_service": "fortnite",
+            "displayName": Memory_CurrentAccountID,
+            "app": "fortnite",
+            "in_app_id": Memory_CurrentAccountID,
+            "device_id": "lawinsdeviceidlol"
+        });
+    }
+
     if (config.Config.bUseConfigDisplayName == false) {
         Memory_CurrentAccountID = req.body.username || "LawinServer"
     }

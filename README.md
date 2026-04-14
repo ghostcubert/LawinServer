@@ -11,6 +11,7 @@
 | --------------- | ----------- |
 | [Lawin](https://github.com/Lawin0129) | Creator |
 | [PRO100KatYT](https://github.com/PRO100KatYT) | Contributor & Maintainer |
+| [RazerFrFr](https://github.com/RazerFrFr) | Inspo from Voltronite |
 
 ## Features:
 
@@ -73,6 +74,7 @@
 - Leaderboards (v1)
 - Configurable backend sided in-game events - check out the Events seciton in config.ini for more details
 - Joining gameservers using the matchmaker - check out the GameServer seciton in config.ini for more details
+- Mobile login and manifest support
 ##### * Included in the [LawinServer Addon](https://github.com/PRO100KatYT/LawinServerAddon). To install it, merge its `public` folder with the one in your LawinServer folder. [(Direct download link)](https://github.com/PRO100KatYT/LawinServerAddon/archive/refs/heads/main.zip)
 
 ## How to host/use LawinServer
