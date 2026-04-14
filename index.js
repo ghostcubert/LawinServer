@@ -37,6 +37,7 @@ express.listen(port, () => {
     process.exit(0);
 });
 
+
 try {
     if (!fs.existsSync(path.join(process.env.LOCALAPPDATA, "LawinServer"))) fs.mkdirSync(path.join(process.env.LOCALAPPDATA, "LawinServer"));
 } catch (err) {

@@ -76,6 +76,55 @@ express.get("/launcher/api/public/distributionpoints/", async (req, res) => {
     });
 })
 
+// Handles both Android and PC manifest requests
+express.get("/launcher/api/public/assets/:platform/:catalogItemId/:appName", async (req, res) => {
+    const platform = req.params.platform;
+
+    if (platform === "Android") {
+        return res.json({
+            appName: req.params.appName,
+            labelName: req.query.label,
+            buildVersion: "++Fortnite+Release-19.10-CL-18675304-Shipping-Android",
+            catalogItemId: req.params.catalogItemId,
+            expires: "9999-12-31T23:59:59.999Z",
+            items: {
+                MANIFEST: {
+                    signature: "LawinServer",
+                    distribution: "https://epicgames-download1.akamaized.net/",
+                    path: "Builds/Fortnite/Content/CloudDir/ctXWZZ_HzXw3em1eXkCzIe-6sMEVFg.manifest", //MANIFEST HERE!!!!!!!
+                    additionalDistributions: []
+                }
+            },
+            assetId: req.params.appName
+        });
+    }
+
+    // PC/Other
+    return res.json({
+        appName: req.params.appName,
+        labelName: req.query.label,
+        buildVersion: "++Fortnite+Release-20.00-CL-19458861-Windows",
+        catalogItemId: req.params.catalogItemId,
+        expires: "9999-12-31T23:59:59.999Z",
+        items: {
+            MANIFEST: {
+                signature: "LawinServer",
+                distribution: "https://lawinserver.ol.epicgames.com/",
+                path: "Builds/Fortnite/Content/CloudDir/LawinServer.manifest",
+                hash: "55bb954f5596cadbe03693e1c06ca73368d427f3",
+                additionalDistributions: []
+            },
+            CHUNKS: {
+                signature: "LawinServer",
+                distribution: "https://lawinserver.ol.epicgames.com/",
+                path: "Builds/Fortnite/Content/CloudDir/LawinServer.manifest",
+                additionalDistributions: []
+            }
+        },
+        assetId: req.params.appName
+    });
+})
+
 express.get("/launcher/api/public/assets/*", async (req, res) => {
     res.json({
         "appName": "FortniteContentBuilds",
