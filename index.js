@@ -37,6 +37,18 @@ express.listen(port, () => {
     process.exit(0);
 });
 
+express.use(require("express").urlencoded({ extended: true }));
+
+express.get("/login", (req, res) => {
+    const filePath = path.join(__dirname, "mobileLogin.html");
+    try {
+        const html = fs.readFileSync(filePath, "utf-8");
+        res.setHeader("Content-Type", "text/html");
+        res.send(html);
+    } catch {
+        res.status(404).send("Login page not found");
+    }
+});
 
 try {
     if (!fs.existsSync(path.join(process.env.LOCALAPPDATA, "LawinServer"))) fs.mkdirSync(path.join(process.env.LOCALAPPDATA, "LawinServer"));

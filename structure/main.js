@@ -84,14 +84,14 @@ express.get("/launcher/api/public/assets/:platform/:catalogItemId/:appName", asy
         return res.json({
             appName: req.params.appName,
             labelName: req.query.label,
-            buildVersion: "++Fortnite+Release-19.10-CL-18675304-Shipping-Android",
+            buildVersion: "LawinServer",
             catalogItemId: req.params.catalogItemId,
             expires: "9999-12-31T23:59:59.999Z",
             items: {
                 MANIFEST: {
                     signature: "LawinServer",
                     distribution: "https://epicgames-download1.akamaized.net/",
-                    path: "Builds/Fortnite/Content/CloudDir/ctXWZZ_HzXw3em1eXkCzIe-6sMEVFg.manifest", //MANIFEST HERE!!!!!!!
+                    path: "Builds/Fortnite/Content/CloudDir/9O7dGkaFewI7qGElsE2rjSDu5u6jeg.manifest", //MANIFEST HERE!!!!!!!
                     additionalDistributions: []
                 }
             },
