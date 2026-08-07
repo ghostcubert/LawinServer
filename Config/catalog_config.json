@@ -1,51 +1,129 @@
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["AthenaCharacter:CID_009_Athena_Commando_M"],
+        "itemGrants": ["AthenaCharacter:Character_AuroraOwl_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/S29/DAv2_CID_009_Athena_Commando_M.DAv2_CID_009_Athena_Commando_M",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
     },
     "daily2": {
-        "itemGrants": ["AthenaCharacter:CID_011_Athena_Commando_M"],
+        "itemGrants": ["AthenaCharacter:Character_CrimpPerfume_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/S30/DAv2_Character_Commando011.DAv2_Character_Commando011",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
     },
     "daily3": {
-        "itemGrants": ["AthenaCharacter:CID_012_Athena_Commando_M"],
+        "itemGrants": ["AthenaCharacter:Character_DimeBlanketKnot_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/DAv2_CID_012_Athena_Commando_M.DAv2_CID_012_Athena_Commando_M",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
     },
     "daily4": {
-        "itemGrants": ["AthenaCharacter:CID_013_Athena_Commando_F"],
+        "itemGrants": ["AthenaCharacter:Character_HammerVice_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/DAv2_CID_013_F_Renegade.DAv2_CID_013_F_Renegade",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
     },
     "daily5": {
-        "itemGrants": ["AthenaCharacter:CID_014_Athena_Commando_F"],
+        "itemGrants": ["AthenaCharacter:Character_Hitman_Dark_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/DAv2_CID_014_F_Pathfinder.DAv2_CID_014_F_Pathfinder",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
     },
     "daily6": {
-        "itemGrants": ["AthenaCharacter:CID_015_Athena_Commando_F"],
+        "itemGrants": ["AthenaCharacter:Character_Iso_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/DAv2_CID_015_Commando_F.DAv2_CID_015_Commando_F",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
     },
-    "featured1": {
-        "itemGrants": ["AthenaCharacter:CID_016_Athena_Commando_F"],
+    "daily7": {
+        "itemGrants": ["AthenaCharacter:Character_LucidAzalea_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/DAv2_CID_016_Commando_F.DAv2_CID_016_Commando_F",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
     },
-    "featured2": {
-        "itemGrants": ["AthenaCharacter:CID_010_Athena_Commando_M"],
+    "daily8": {
+        "itemGrants": ["AthenaCharacter:Character_MicroLeaf_Fate"],
         "displayAssetPath": "",
-        "NewDisplayAssetPath": "/OfferCatalog/NewDisplayAssets/DAv2_CID_010_M.DAv2_CID_010_M",
-        "price": 800
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily9": {
+        "itemGrants": ["AthenaCharacter:Character_StallionAviator_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily10": {
+        "itemGrants": ["AthenaCharacter:Character_SweetLetter_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily11": {
+        "itemGrants": ["AthenaCharacter:Character_TwilightSpotShine_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily12": {
+        "itemGrants": ["AthenaCharacter:Character_VoltaicHuntress_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily13": {
+        "itemGrants": ["AthenaCharacter:CID_660_Athena_Commando_F_BandageNinjaBlue_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily14": {
+        "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily15": {
+        "itemGrants": ["AthenaCharacter:CID_749_Athena_Commando_F_GraffitiAssassin_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily16": {
+        "itemGrants": ["AthenaCharacter:CID_A_040_Athena_Commando_F_Temple_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily17": {
+        "itemGrants": ["AthenaCharacter:CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily18": {
+        "itemGrants": ["AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily19": {
+        "itemGrants": ["AthenaCharacter:CID_A_317_Athena_Commando_F_Lateral_HIKN9_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily20": {
+        "itemGrants": ["AthenaCharacter:CID_A_381_Athena_Commando_F_CactusRocker_3HTBV_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "daily21": {
+        "itemGrants": ["AthenaCharacter:CID_Skeleton_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
     }
 }
