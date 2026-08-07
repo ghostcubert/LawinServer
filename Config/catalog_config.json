@@ -1,126 +1,126 @@
 {
     "//": "BR Item Shop Config",
-    "daily1": {
+    "featured1": {
         "itemGrants": ["AthenaCharacter:Character_AuroraOwl_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily2": {
+    "featured2": {
         "itemGrants": ["AthenaCharacter:Character_CrimpPerfume_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily3": {
+    "featured3": {
         "itemGrants": ["AthenaCharacter:Character_DimeBlanketKnot_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily4": {
+    "featured4": {
         "itemGrants": ["AthenaCharacter:Character_HammerVice_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily5": {
+    "featured5": {
         "itemGrants": ["AthenaCharacter:Character_Hitman_Dark_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily6": {
+    "featured6": {
         "itemGrants": ["AthenaCharacter:Character_Iso_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily7": {
+    "featured7": {
         "itemGrants": ["AthenaCharacter:Character_LucidAzalea_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily8": {
+    "featured8": {
         "itemGrants": ["AthenaCharacter:Character_MicroLeaf_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily9": {
+    "featured9": {
         "itemGrants": ["AthenaCharacter:Character_StallionAviator_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily10": {
+    "featured10": {
         "itemGrants": ["AthenaCharacter:Character_SweetLetter_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily11": {
+    "featured11": {
         "itemGrants": ["AthenaCharacter:Character_TwilightSpotShine_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily12": {
+    "featured12": {
         "itemGrants": ["AthenaCharacter:Character_VoltaicHuntress_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily13": {
+    "featured13": {
         "itemGrants": ["AthenaCharacter:CID_660_Athena_Commando_F_BandageNinjaBlue_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily14": {
+    "featured14": {
         "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily15": {
+    "featured15": {
         "itemGrants": ["AthenaCharacter:CID_749_Athena_Commando_F_GraffitiAssassin_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily16": {
+    "featured16": {
         "itemGrants": ["AthenaCharacter:CID_A_040_Athena_Commando_F_Temple_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily17": {
+    "featured17": {
         "itemGrants": ["AthenaCharacter:CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily18": {
+    "featured18": {
         "itemGrants": ["AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily19": {
+    "featured19": {
         "itemGrants": ["AthenaCharacter:CID_A_317_Athena_Commando_F_Lateral_HIKN9_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily20": {
+    "featured20": {
         "itemGrants": ["AthenaCharacter:CID_A_381_Athena_Commando_F_CactusRocker_3HTBV_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
-    "daily21": {
+    "featured21": {
         "itemGrants": ["AthenaCharacter:CID_Skeleton_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
