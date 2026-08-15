@@ -7,120 +7,192 @@
         "price": 0
     },
     "featured2": {
-        "itemGrants": ["AthenaCharacter:Character_CrimpPerfume_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_BrightIon_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured3": {
-        "itemGrants": ["AthenaCharacter:Character_DimeBlanketKnot_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_CanineCronutMix_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured4": {
-        "itemGrants": ["AthenaCharacter:Character_HammerVice_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_CrimpPerfume_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured5": {
-        "itemGrants": ["AthenaCharacter:Character_Hitman_Dark_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_DimeBlanketKnot_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured6": {
-        "itemGrants": ["AthenaCharacter:Character_Iso_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_DryEraseToro_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured7": {
-        "itemGrants": ["AthenaCharacter:Character_LucidAzalea_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_GarbageFNCS_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured8": {
-        "itemGrants": ["AthenaCharacter:Character_MicroLeaf_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_HammerVice_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured9": {
-        "itemGrants": ["AthenaCharacter:Character_StallionAviator_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_HerbalFist_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured10": {
-        "itemGrants": ["AthenaCharacter:Character_SweetLetter_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_Hitman_Dark_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured11": {
-        "itemGrants": ["AthenaCharacter:Character_TwilightSpotShine_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_HumanBeing_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured12": {
-        "itemGrants": ["AthenaCharacter:Character_VoltaicHuntress_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_HumorShale_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured13": {
-        "itemGrants": ["AthenaCharacter:CID_660_Athena_Commando_F_BandageNinjaBlue_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_Iso_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured14": {
-        "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_KelpLinenCalcium_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured15": {
-        "itemGrants": ["AthenaCharacter:CID_749_Athena_Commando_F_GraffitiAssassin_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_LucidAzalea_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured16": {
-        "itemGrants": ["AthenaCharacter:CID_A_040_Athena_Commando_F_Temple_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_MicroLeaf_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured17": {
-        "itemGrants": ["AthenaCharacter:CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_StallionAviator_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured18": {
-        "itemGrants": ["AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_SummitReedGrit_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured19": {
-        "itemGrants": ["AthenaCharacter:CID_A_317_Athena_Commando_F_Lateral_HIKN9_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_SweetLetter_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured20": {
-        "itemGrants": ["AthenaCharacter:CID_A_381_Athena_Commando_F_CactusRocker_3HTBV_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_TwilightSpotShine_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured21": {
+        "itemGrants": ["AthenaCharacter:Character_TwilightSpotSpell"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured22": {
+        "itemGrants": ["AthenaCharacter:Character_VoltaicHuntress_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured23": {
+        "itemGrants": ["AthenaCharacter:CID_660_Athena_Commando_F_BandageNinjaBlue_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured24": {
+        "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured25": {
+        "itemGrants": ["AthenaCharacter:CID_749_Athena_Commando_F_GraffitiAssassin_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured26": {
+        "itemGrants": ["AthenaCharacter:CID_757_Athena_Commando_F_WildCat"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured27": {
+        "itemGrants": ["AthenaCharacter:CID_A_024_Athena_Commando_F_Skirmish_QW2BQ_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured28": {
+        "itemGrants": ["AthenaCharacter:CID_A_040_Athena_Commando_F_Temple_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured29": {
+        "itemGrants": ["AthenaCharacter:CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured30": {
+        "itemGrants": ["AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured31": {
+        "itemGrants": ["AthenaCharacter:CID_A_317_Athena_Commando_F_Lateral_HIKN9_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured32": {
+        "itemGrants": ["AthenaCharacter:CID_A_381_Athena_Commando_F_CactusRocker_3HTBV_Fate"],
+        "displayAssetPath": "",
+        "NewDisplayAssetPath": "",
+        "price": 0
+    },
+    "featured33": {
         "itemGrants": ["AthenaCharacter:CID_Skeleton_Fate"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
