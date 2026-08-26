@@ -1,19 +1,19 @@
 {
     "//": "BR Item Shop Config",
     "featured1": {
-        "itemGrants": ["AthenaCharacter:Character_AuroraOwl_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_HammerVice"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured2": {
-        "itemGrants": ["AthenaCharacter:Character_BrightIon_Fate"],
+        "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
     },
     "featured3": {
-        "itemGrants": ["AthenaCharacter:Character_CanineCronutMix_Fate"],
+        "itemGrants": ["AthenaCharacter:Character_TweakSmirk"],
         "displayAssetPath": "",
         "NewDisplayAssetPath": "",
         "price": 0
